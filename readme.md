@@ -221,5 +221,42 @@ Bloick Quites
 
 
 
+## Code Blocks + Syntax Highlighting
+
+```js
+   var age = 15;
+   var snack = 'almonds';
+
+```
+
+
+
+```php
+   $age = 15;
+   $snack = 'almonds';
+   $echo("It SHould always be fun ...");
+
+```
+
+hey did you try `var abs = 100;`?
+
+please incoporte these chagnes
+```diff
+ + var a = 100;
+ - var a = 743;
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
