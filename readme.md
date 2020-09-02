@@ -251,12 +251,27 @@ please incoporte these chagnes
 
 
 
+|name| age|
+|----:|-----:|
+|pun | 89  |
+|nina| 234 |
+
+
+<br/><br/><br/><br/>
+Left ALign 
+
+|name| age|
+|:----|:-----|
+|pun | 89  |
+|nina| 234 |
 
 
 
-
-
-
-
+<br/><br/><br/><br/>
+Center align
+|name| age|
+|:----:|-----|
+|pun | 89  |
+|nina| 234 |
 
 
