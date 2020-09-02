@@ -187,8 +187,36 @@ Lorem aliqua nulla ~~sit occaecat~~. Qui velit irure id sint consequat sunt veli
 4. making the clean
 
 
+## Line Breaks, Horizontal Rules and Blockquotes
+
+rule num alawys relex <br/>rule2 relaz :)
+
+something
+----
+Horiaontal rul 
+----
+make the new line break
+=====
+
+=====
 
 
+
+
+
+
+
+Bloick Quites 
+
+> make theis code 
+> 
+> Make the interseting stuff
+
+
+> make theis code 
+
+
+> Make the interseting stuff
 
 
 
