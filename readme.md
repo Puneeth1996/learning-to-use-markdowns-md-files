@@ -104,20 +104,94 @@ Lorem aliqua nulla ~~sit occaecat~~. Qui velit irure id sint consequat sunt veli
 [pup]: https://www.thesprucepets.com/thmb/4LioS5QkvvgO9jlyGac78S16fUQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/poop-pup-resized-56a7a35f3df78cf77297cacf.jpg
 
 
-<br/>
-<br/>
+<br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 
-[![](https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc "An Image with link inside")](https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
+[![Soem alt text](https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc "An Image with link inside")](https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
+
+
+<br/><br/><br/><br/>
+
+<br/><br/><br/><br/>
+
+[![Soem alt text](https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc "An Image with link inside")](https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
 
 
 
-[![](https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc "An Image with link inside")](https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
+
+<br/><br/><br/><br/>
+<br/><br/><br/><br/>
+
+![<img src="https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc " width="100" height="100">](https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
+
+
+
+
+<br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 <img src="https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc " width="100" height="100">
-(https://i.picsum.photos/id/1000/10/10.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc)
 
 
 
-<img src="https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc " width="100" height="100">
+
+<br/><br/><br/><br/>
+<br/><br/><br/><br/>
+
+
+
+
+
+# Lists — Ordered, Unordered, Bullets and Nesting
+
+
+* eggs
+* milk
+* bread
+
++ eggs
++ milk
++ bread
+
+- eggs
+- milk
+- bread
+
+
+
+1. make the is first irdered
+   1. take a clean egg
+   2. clean mushroom
+   3. stiff flowers
+2. make the is first irdered
+   - eggs
+   - milk
+   - bread
+   - <img src="https://i.picsum.photos/id/1000/500/500.jpg?hmac=suY41yRTc6evFAAMLDanMbqOJx6MDVQ_Gv-FNquR9cc " width="100" height="100">
+   - ``` js
+        var abc = 100;
+        //this would be javascript
+        console.log("make it super fun");
+     ```
+   - ``` php
+        <?php>
+        var abc = 100;
+        //this would be php stule
+        console.log("make it super fun");
+        ?>
+     ```
+
+3. kill it 
+4. making the clean
+
+
+
+
+
+
+
+
+
+
