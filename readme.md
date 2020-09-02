@@ -78,11 +78,29 @@ Lorem aliqua nulla ~~sit occaecat~~. Qui velit irure id sint consequat sunt veli
  ## Markdown Images
 
 
-##
+![Great Painting!!](https://raw.githubusercontent.com/Puneeth1996/learning-to-use-markdowns-md-files/master/pic.jpg "This is awesome use some paints!!!")
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+# Bunch of silly line breaks 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![Meet this bub! Funny ][pup]
 
 
 
-
-
+[pup]: https://www.thesprucepets.com/thmb/4LioS5QkvvgO9jlyGac78S16fUQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/poop-pup-resized-56a7a35f3df78cf77297cacf.jpg
 
 
